@@ -1,0 +1,41 @@
+{
+"bot": {
+
+"token": "",
+"Owner": "",
+"durum": "@paket",
+"statuss": "dnd", 
+"type": "LISTENING",
+"botSesKanal": ""
+},
+
+"Roles": {
+
+"Button1": "1355263795219402752",
+"Button2": "1355263817743073521",
+"Button3": "1355263832729190400"
+
+},
+  
+"colors": {
+  
+"color1": "black",
+"color2": "white",
+"color3": "red"
+},
+"names": {
+  
+"name1": "Kelesh",
+"name2": "Kelesh",
+"name3": "Kelesh",
+"text": "**buraları sılmeyın.**"
+
+},
+"emojis": {
+"messageemoji": "🎉",
+"emoji1": "😁",
+"emoji2": "😍",
+"emoji3": "✌️"
+
+}
+}
