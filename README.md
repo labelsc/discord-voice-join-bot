@@ -1,3 +1,3 @@
-//kelesh tarafından kodlanmıstır
-//discord illegalyasa ve labelsc 
+//cevo tarafından kodlanmıstır
+//discord cevoxum
 daha fazlası ıcın 
