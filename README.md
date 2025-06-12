@@ -1,3 +1,3 @@
 //cevo tarafından kodlanmıstır
-//discord cevoxum
+//discord cileler
 daha fazlası ıcın 
